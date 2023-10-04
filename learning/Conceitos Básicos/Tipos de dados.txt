@@ -1,0 +1,17 @@
+Tipos de dados
+
+    String: Conjunto de caracteres em formato texto, são representados com '' ou ""
+
+    Array: Conjunto de dados que podemos chamar dentro do nosso programa, são representados por []
+    
+    Symbol: Parecido com uma string, porém é imutável, eu posso criar várias variáveis com o mesmo valor, no final, todas essas variaveis estarão guardadas no mesmo espaço de memória. Os Symbol começam com ':'
+
+    Hash: Parecidos com Array, porém guarda tanto os dados quantos seus valores, enquanto no Array se usa '[]', as hash's usam '{}'
+
+    Bolean: True/False
+
+    Number:
+        Integer: Números positivos, negativos e 0
+        Float: Números decimais e que contém ponto flutuante
+
+    

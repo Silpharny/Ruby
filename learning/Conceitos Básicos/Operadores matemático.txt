@@ -1,0 +1,8 @@
+Operadores matemáticos
+
+    Adição -> +
+    Subtração -> -
+    Divisão -> /
+    Multiplicação -> *
+    Módulo -> %
+    Exponêncial -> **
