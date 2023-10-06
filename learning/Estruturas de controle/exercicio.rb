@@ -5,7 +5,7 @@ loop do
     puts 'Selecione uma opção: '
     puts '[1] Para descobrir a idade da pessoa'
     puts '[0] Para sair'
-    putsf 'Opção: '
+    puts 'Opção: '
 
     option = gets.chomp.to_i
 
