@@ -28,6 +28,7 @@ end
 puts "-------------"
 
 #------- Exemplo 04 -------
+
 def foo
     #call the block
     yield # Esse comando chama um bloco foo
